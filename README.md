@@ -48,7 +48,7 @@
 
 ###
 
-<h6 align="left">⚡ I'm currently working as a Business Intelligence Analyst at 10 Minute School.<br>🔭 I’m currently working on E-sports  classification using Machine Learning techniques.<br>🌱 I’m currently learning more about Deep Learning methods and Algos.<br>👯 I’m looking to collaborate on data science and deep learning projects.<br>🥅 Goals: To build something iconic with the collaboration of Deep Learning and Art.<br>🕹️ Check out my Personal Website for more details about me.</h6>
+<h6 align="left">⚡ I'm currently working as a Business Intelligence Analyst at 10 Minute School.<br>🔭 I’m currently working on E-sports  classification using Machine Learning techniques.<br>🌱 I’m currently learning more about Deep Learning methods and Algos.<br>👯 I’m looking to collaborate on data science and deep learning projects.<br>🥅 Goals: To build something iconic with the collaboration of Deep Learning and Art.<br>
 
 ###
 
