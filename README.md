@@ -46,7 +46,7 @@
 
 <img align="left" height="400" src="https://github.com/Risad-Raihan/Necessary_imges/blob/main/Computer%20Geeks.png?raw=true"  />
 
-###
+### Interests
 
 <h6 align="left">⚡ I'm currently working as a Business Intelligence Analyst at 10 Minute School.<br>🔭 I’m currently working on E-sports  classification using Machine Learning techniques.<br>🌱 I’m currently learning more about Deep Learning methods and Algos.<br>👯 I’m looking to collaborate on data science and deep learning projects.<br>🥅 Goals: To build something iconic with the collaboration of Deep Learning and Art.<br>
 
@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Risad-Raihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Risad-Raihan/count.svg?"  />
@@ -69,7 +69,7 @@
 
 <img src="https://raw.githubusercontent.com/Risad-Raihan/Risad-Raihan/output/snake.svg" alt="Snake animation" />
 
-###
+### My Stacks
 
 <h5 align="left">{<br>  "Languages and Frameworks": ["Python", "OpenCV","C (basic)", "HTML", "CSS", "Bootstrap"],<br>  "Database": ["MySQL", "SQL","PostgreSQL"],<br>  "Data Warehouse, ETL": ["Google BigQuery" ,"GCP", "Airbyte"],<br>  "Automation & Web Scraping": ["Selenium", "Scrapy"],<br>  "Data-Science": {<br>    "Predictive Analysis & Algorithm Development": ["Scikit-Learn"],<br>    "Data Visualization": ["Pandas", "Matplotlib", "Seaborn", "Data Studio", "Tableau"],<br>    "Machine Learning": ["Statistical Analysis", "Linear/Logistic Regression","Clustering"],<br>    "Deep Learning": ["Keras", "TensorFlow", "Computer Vision", "Transfer Learning"],<br>  },<br><br>  "Operating System": ["Linux", "Mac", "Windows", "Android"],<br>  "Tools": ["BigQuery", "GCP", "Metabase", "Data Studio", "Jupyter Notebook","PyCharm","Visual Code"] <br>}</h5>
 
