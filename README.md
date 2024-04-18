@@ -69,11 +69,77 @@
 
 <img src="https://raw.githubusercontent.com/Risad-Raihan/Risad-Raihan/output/snake.svg" alt="Snake animation" />
 
-### My Stacks
 
-<h5 align="left">{<br>  "Languages and Frameworks": ["Python", "OpenCV","C (basic)", "HTML", "CSS", "Bootstrap"],<br>  "Database": ["MySQL", "SQL","PostgreSQL"],<br>  "Data Warehouse, ETL": ["Google BigQuery" ,"GCP", "Airbyte"],<br>  "Automation & Web Scraping": ["Selenium", "Scrapy"],<br>  "Data-Science": {<br>    "Predictive Analysis & Algorithm Development": ["Scikit-Learn"],<br>    "Data Visualization": ["Pandas", "Matplotlib", "Seaborn", "Data Studio", "Tableau"],<br>    "Machine Learning": ["Statistical Analysis", "Linear/Logistic Regression","Clustering"],<br>    "Deep Learning": ["Keras", "TensorFlow", "Computer Vision", "Transfer Learning"],<br>  },<br><br>  "Operating System": ["Linux", "Mac", "Windows", "Android"],<br>  "Tools": ["BigQuery", "GCP", "Metabase", "Data Studio", "Jupyter Notebook","PyCharm","Visual Code"] <br>}</h5>
 
-###
+
+## My Stack
+
+
+**Languages and Frameworks:**
+
+* Python 🐍
+* OpenCV 👁️
+* C (basic)
+* HTML 🌐
+* CSS 🎨
+* Bootstrap 🧱
+
+**Databases:**
+
+* MySQL 🐬
+* SQL 🈸
+* PostgreSQL 🐘
+
+**Data Warehouse, ETL:**
+
+* Google BigQuery 🔍
+* GCP ☁️
+* Airbyte 🚀
+
+**Automation & Web Scraping:**
+
+* Selenium 🌐🤖
+* Scrapy 🕷️
+
+**Data Science:**
+
+* **Predictive Analysis & Algorithm Development:**
+    * Scikit-Learn 🧠
+* **Data Visualization:**
+    * Pandas 🐼
+    * Matplotlib 📊
+    * Seaborn [seaborn.pydata.org](https://seaborn.pydata.org) 
+    * Data Studio 📈
+    * Tableau 🎨
+* **Machine Learning:**  
+    * Statistical Analysis
+    * Linear/Logistic Regression 
+    * Clustering 
+* **Deep Learning:**
+    * Keras 
+    * TensorFlow 
+    * Computer Vision 👀
+    * Transfer Learning ♻️
+
+**Operating Systems:**
+
+* Linux 🐧
+* Mac 🍎
+* Windows 💻
+* Android 🤖
+
+**Tools:**
+
+* BigQuery 🔍
+* GCP ☁️
+* Metabase 📊
+* Data Studio 📈
+* Jupyter Notebook 📖
+* PyCharm 🐍
+* Visual Code 💻 
+
+
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/risad-raihan-malik/" target="_blank">
