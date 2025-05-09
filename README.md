@@ -11,7 +11,7 @@
 ### My Stack
 
 **AI & Deep Learning:**<br/>
-<span style="color:#f06292; font-weight:bold;">TensorFlow</span> | <span style="color:#ba68c8; font-weight:bold;">PyTorch</span> | <span style="color:#4dd0e1; font-weight:bold;">Hugging Face</span> | <span style="color:#64b5f6; font-weight:bold;">Gemini (Google AI)</span> | <span style="color:#ffb74d; font-weight:bold;">XGBoost</span> | <span style="color:#81c784; font-weight:bold;">FAISS</span> | Deep Neural Networks | Transformer Models | LLMs<br/><br/>
+<span style="color:#f06292; font-weight:bold;">TensorFlow</span> | <span style="color:#ba68c8; font-weight:bold;">PyTorch</span> | <span style="color:#4dd0e1; font-weight:bold;">Hugging Face</span> |  <span style="color:#81c784; font-weight:bold;">FAISS</span> | Deep Neural Networks | Transformer Models | LLMs<br/><br/>
 
 **Natural Language Processing & RAG:**<br/>
 <span style="color:#a1887f; font-weight:bold;">NLTK</span> | <span style="color:#9575cd; font-weight:bold;">LangChain</span> | Vector Embeddings | Sentiment Analysis | NER | Text Classification | RAG<br/><br/>
