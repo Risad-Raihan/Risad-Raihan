@@ -9,32 +9,36 @@
 ### My Stack
 
 **AI & ML:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="20" alt="tensorflow logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20" alt="pytorch logo"  />
-<img src="https://huggingface.co/frontends/hub-mono/assets/huggingface-logo.svg" height="20" alt="hugging face logo"  />
-<img src="https://www.gstatic.com/devrel-devsite/prod/v2/shell/g3logo.svg" height="20" alt="gemini logo"  />
-<img src="https://xgboost.readthedocs.io/en/stable/_static/logo.png" height="20" alt="xgboost logo"  />
-<img src="https://faiss.ai/img/faiss_logo.png" height="20" alt="faiss logo"  />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" alt="tensorflow logo"  />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="pytorch logo"  />
+<img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" height="25" alt="hugging face logo"  />
+<img src="https://img.shields.io/badge/Google%20AI-%234285F4.svg?style=for-the-badge&logo=google-ai&logoColor=white" height="25" alt="gemini logo"  />
+<img src="https://img.shields.io/badge/XGBoost-%23F06117.svg?style=for-the-badge&logo=xgboost&logoColor=white" height="25" alt="xgboost logo"  />
+<img src="https://img.shields.io/badge/FAISS-%2334A853.svg?style=for-the-badge&logoColor=white" height="25" alt="faiss logo"  />
 
 **NLP & RAG:**
-<img src="https://avatars.githubusercontent.com/u/76276964?s=200&v=4" height="20" alt="langchain logo"  /> Vector Embeddings | Sentiment Analysis | NER | Text Classification | RAG
+<img src="https://img.shields.io/badge/LangChain-%2300C698.svg?style=for-the-badge&logoColor=white" height="25" alt="langchain logo"  /> Vector Embeddings | Sentiment Analysis | NER | Text Classification | RAG
 
 **Predictive Modeling:**
 SARIMA/SARIMAX | RFM Analysis | Churn Prediction | Time Series | LSTM
 
 **Computer Vision:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" alt="opencv logo"  /> YOLO | R-CNN | Transfer Learning | Image Classification
+<img src="https://img.shields.io/badge/OpenCV-%2327AE60.svg?style=for-the-badge&logo=opencv&logoColor=white" height="25" alt="opencv logo"  /> YOLO | R-CNN | Transfer Learning | Image Classification
 
 **Cloud & Data:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="20" alt="gcp logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20" alt="azure logo"  /> Looker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="20" alt="powerbi logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonaws/amazonaws-original.svg" height="20" alt="aws logo"  />
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="25" alt="gcp logo"  />
+<img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" alt="azure logo"  />
+<img src="https://img.shields.io/badge/Looker-%233367D6.svg?style=for-the-badge&logoColor=white" height="25" alt="looker logo"  />
+<img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" height="25" alt="powerbi logo"  />
+<img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" height="25" alt="aws logo"  />
 
 **Development:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="20" alt="flask logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="20" alt="django logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  /> MLflow
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="25" alt="python logo"  />
+<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" height="25" alt="flask logo"  />
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="25" alt="django logo"  />
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git logo"  />
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="docker logo"  />
+<img src="https://img.shields.io/badge/MLflow-%23000000.svg?style=for-the-badge&logoColor=white" height="25" alt="mlflow logo"  />
 
 ### Portfolio & Blog
 
