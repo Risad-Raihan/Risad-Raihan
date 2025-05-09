@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Risad-Raihan/Risad-Raihan/output/snake.svg" alt="Snake animation" />
 
-<h5 align="center">AI Engineer with a Master's in Artificial Intelligence and 2+ years of experience. Skilled in developing and deploying a wide range of machine learning solutions...</h5>
+<h5 align="center">AI Engineer with a Master's in Artificial Intelligence and 2+ years of experience. Skilled in developing and deploying a wide range of machine learning solutions, including NLP, Computer Vision, and Predictive Modeling. Expertise encompasses LLMs, RAG, RCNN, YOLO, and RNN. This experience includes academic study and early career roles in the UK and Malaysia, followed by professional experience in Bangladesh, contributing to the development of chatbots, sentiment analysis, language generation, object detection, and predictive analytics.</h5>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Risad-Raihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -10,37 +10,51 @@
 
 ### My Stack
 
-**AI & ML:** (Deep Learning, Model Deployment)
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" alt="tensorflow logo"  />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="pytorch logo"  />
-<img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" height="25" alt="hugging face logo"  />
-<img src="https://img.shields.io/badge/Google%20AI-%234285F4.svg?style=for-the-badge&logo=google-ai&logoColor=white" height="25" alt="gemini logo"  />
-<img src="https://img.shields.io/badge/XGBoost-%23F06117.svg?style=for-the-badge&logo=xgboost&logoColor=white" height="25" alt="xgboost logo"  />
-<img src="https://img.shields.io/badge/FAISS-%2334A853.svg?style=for-the-badge&logoColor=white" height="25" alt="faiss logo"  />
+**AI & Machine Learning:**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" height="30" alt="tensorflow logo">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="30" alt="pytorch logo">
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" height="30" alt="hugging face logo">
+  <img src="https://img.shields.io/badge/Google%20AI-%234285F4.svg?style=for-the-badge&logo=google-ai&logoColor=white" height="30" alt="gemini logo">
+  <img src="https://img.shields.io/badge/XGBoost-%23F06117.svg?style=for-the-badge&logo=xgboost&logoColor=white" height="30" alt="xgboost logo">
+  <img src="https://img.shields.io/badge/FAISS-%2334A853.svg?style=for-the-badge&logoColor=white" height="30" alt="faiss logo">
+</p>
 
-**NLP & RAG:** (Information Retrieval, Text Generation)
-<img src="https://img.shields.io/badge/LangChain-%2300C698.svg?style=for-the-badge&logoColor=white" height="25" alt="langchain logo"  /> Vector Embeddings | Sentiment Analysis | NER | Text Classification | RAG
+**Natural Language Processing & RAG:**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-%2300C698.svg?style=for-the-badge&logoColor=white" height="30" alt="langchain logo">
+  <span>Vector Embeddings</span> | <span>Sentiment Analysis</span> | <span>NER</span> | <span>Text Classification</span> | <span>RAG</span>
+</p>
 
 **Predictive Modeling:**
-SARIMA/SARIMAX | RFM Analysis | Churn Prediction | Time Series | LSTM
+<p align="left">
+  <span>SARIMA/SARIMAX</span> | <span>RFM Analysis</span> | <span>Churn Prediction</span> | <span>Time Series</span> | <span>LSTM</span>
+</p>
 
-**Computer Vision:** (Object Detection, Image Analysis)
-<img src="https://img.shields.io/badge/OpenCV-%2327AE60.svg?style=for-the-badge&logo=opencv&logoColor=white" height="25" alt="opencv logo"  /> YOLO | R-CNN | Transfer Learning | Image Classification
+**Computer Vision:**
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-%2327AE60.svg?style=for-the-badge&logo=opencv&logoColor=white" height="30" alt="opencv logo">
+  <span>YOLO</span> | <span>R-CNN</span> | <span>Transfer Learning</span> | <span>Image Classification</span>
+</p>
 
 **Cloud & Data:**
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="25" alt="gcp logo"  />
-<img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" alt="azure logo"  />
-<img src="https://img.shields.io/badge/Looker-%233367D6.svg?style=for-the-badge&logoColor=white" height="25" alt="looker logo"  />
-<img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" height="25" alt="powerbi logo"  />
-<img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" height="25" alt="aws logo"  />
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="30" alt="gcp logo">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30" alt="azure logo">
+  <img src="https://img.shields.io/badge/Looker-%233367D6.svg?style=for-the-badge&logoColor=white" height="30" alt="looker logo">
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="powerbi logo">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" alt="aws logo">
+</p>
 
 **Development:**
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="25" alt="python logo"  />
-<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" height="25" alt="flask logo"  />
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="25" alt="django logo"  />
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git logo"  />
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="docker logo"  />
-<img src="https://img.shields.io/badge/MLflow-%23000000.svg?style=for-the-badge&logoColor=white" height="25" alt="mlflow logo"  />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo">
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" alt="flask logo">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="30" alt="django logo">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git logo">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="docker logo">
+  <img src="https://img.shields.io/badge/MLflow-%23000000.svg?style=for-the-badge&logoColor=white" height="30" alt="mlflow logo">
+</p>
 
 ---
 
@@ -49,7 +63,3 @@ SARIMA/SARIMAX | RFM Analysis | Churn Prediction | Time Series | LSTM
 🔗 [Portfolio](https://www.risadfindingpatterns.com/)
 
 ✍️ [Blog](https://www.risadfindingpatterns.com/blog)
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Risad-Raihan/count.svg?" />
-</div>
