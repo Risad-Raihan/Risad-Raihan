@@ -10,59 +10,23 @@
 
 ### My Stack
 
-<div align="left">
-  **AI & Deep Learning:**<br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="30" alt="Hugging Face" />
-  <img width="8" />
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v2/shell/g3logo.svg" height="30" alt="Gemini (Google AI)" />
-  <img width="8" />
-  <img src="https://xgboost.readthedocs.io/en/stable/_static/logo.png" height="30" alt="XGBoost" width="30" />
-  <img width="8" />
-  <span>FAISS</span> | <span>Deep Neural Networks</span> | <span>Transformer Models</span> | <span>LLMs</span><br/><br/>
+**AI & Deep Learning:**<br/>
+<span style="color:#f06292; font-weight:bold;">TensorFlow</span> | <span style="color:#ba68c8; font-weight:bold;">PyTorch</span> | <span style="color:#4dd0e1; font-weight:bold;">Hugging Face</span> | <span style="color:#64b5f6; font-weight:bold;">Gemini (Google AI)</span> | <span style="color:#ffb74d; font-weight:bold;">XGBoost</span> | <span style="color:#81c784; font-weight:bold;">FAISS</span> | Deep Neural Networks | Transformer Models | LLMs<br/><br/>
 
-  **Natural Language Processing & RAG:**<br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" height="30" alt="NLTK" />
-  <img width="8" />
-  <img src="https://avatars.githubusercontent.com/u/76276964?s=200&v=4" height="30" alt="LangChain" />
-  <img width="8" />
-  <span>Vector Embeddings</span> | <span>Sentiment Analysis</span> | <span>NER</span> | <span>Text Classification</span> | <span>RAG</span><br/><br/>
+**Natural Language Processing & RAG:**<br/>
+<span style="color:#a1887f; font-weight:bold;">NLTK</span> | <span style="color:#9575cd; font-weight:bold;">LangChain</span> | Vector Embeddings | Sentiment Analysis | NER | Text Classification | RAG<br/><br/>
 
-  **Predictive Modeling:**<br/>
-  <span>SARIMA/SARIMAX</span> | <span>RFM Analysis</span> | <span>Churn Prediction</span> | <span>Time Series</span> | <span>LSTM</span><br/><br/>
+**Predictive Modeling:**<br/>
+SARIMA/SARIMAX | RFM Analysis | Churn Prediction | Time Series | LSTM<br/><br/>
 
-  **Computer Vision:**<br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
-  <img width="8" />
-  <span>YOLO</span> | <span>R-CNN</span> | <span>Transfer Learning</span> | <span>Image Classification</span><br/><br/>
+**Computer Vision:**<br/>
+<span style="color:#e57373; font-weight:bold;">OpenCV</span> | YOLO | R-CNN | Transfer Learning | Image Classification<br/><br/>
 
-  **Cloud & Data:**<br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="Power BI" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonaws/amazonaws-original.svg" height="30" alt="AWS" />
-  <img width="8" />
-  <span>Looker</span><br/><br/>
+**Cloud & Data:**<br/>
+<span style="color:#42a5f5; font-weight:bold;">Google Cloud</span> | <span style="color:#29b6f6; font-weight:bold;">Azure</span> | <span style="color:#ce93d8; font-weight:bold;">Looker</span> | <span style="color:#fdd835; font-weight:bold;">Power BI</span> | <span style="color:#ff7043; font-weight:bold;">AWS</span><br/><br/>
 
-  **Development:**<br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="Django" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="8" />
-  <span>MLflow</span><br/>
-</div>
+**Development:**<br/>
+<span style="color:#9ccc65; font-weight:bold;">Python</span> | <span style="color:#ffa726; font-weight:bold;">Flask</span> | <span style="color:#26a69a; font-weight:bold;">Django</span> | <span style="color:#bdbdbd; font-weight:bold;">Git</span> | <span style="color:#00acc1; font-weight:bold;">Docker</span> | <span style="color:#d4e157; font-weight:bold;">MLflow</span><br/>
 
 ---
 
