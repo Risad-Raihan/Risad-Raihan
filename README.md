@@ -3,18 +3,18 @@
   <img src="https://raw.githubusercontent.com/Risad-Raihan/Risad-Raihan/output/snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<h1 align="center">Hi, I'm Risad Raihan 👋</h1>
+<h1 align="center">Hi, I'm Risad Raihan </h1>
 <h4 align="center">
 AI Engineer specializing in LLMs, Agentic RAG, Computer Vision, and Enterprise AI Applications.
 </h4>
 
 <p align="center">
-  Master's in Artificial Intelligence • 2+ Years Professional Experience • Full-Stack AI Engineer
+  Master's in Artificial Intelligence • 3.5 Years Professional Experience • Full-Stack AI Engineer
 </p>
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 
 ### **Large Language Models (LLMs)**
 - Full Fine-Tuning • LoRA • QLoRA • PEFT  
@@ -58,9 +58,10 @@ AI Engineer specializing in LLMs, Agentic RAG, Computer Vision, and Enterprise A
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Risad-Raihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Risad-Raihan&layout=compact&langs_count=8&theme=dracula" height="150" />
+</div>
+
 
 ---
 
