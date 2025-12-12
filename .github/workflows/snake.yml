@@ -1,7 +1,6 @@
 ---
 name: Generate Snake Animation
 
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -24,7 +23,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake-artifacts
           path: dist/
