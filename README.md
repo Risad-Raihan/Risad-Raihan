@@ -1,37 +1,98 @@
-<img src="https://raw.githubusercontent.com/Risad-Raihan/Risad-Raihan/output/snake.svg" alt="Snake animation" />
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Risad-Raihan/Risad-Raihan/output/snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
-<h5 align="center">AI Engineer with a Master's in Artificial Intelligence and 2+ years of experience. Skilled in developing and deploying a wide range of machine learning solutions, including NLP, Computer Vision, and Predictive Modeling. Expertise encompasses LLMs, RAG, RCNN, YOLO, and RNN. This experience includes academic study and early career roles in the UK and Malaysia, followed by professional experience in Bangladesh, contributing to the development of chatbots, sentiment analysis, language generation, object detection, and predictive analytics.</h5>
+<h1 align="center">Hi, I'm Risad Raihan 👋</h1>
+<h4 align="center">
+AI Engineer specializing in LLMs, Agentic RAG, Computer Vision, and Enterprise AI Applications.
+</h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Risad-Raihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
----
-
-### My Stack
-
-**AI & Deep Learning:**<br/>
-<span style="color:#f06292; font-weight:bold;">TensorFlow</span> | <span style="color:#ba68c8; font-weight:bold;">PyTorch</span> | <span style="color:#4dd0e1; font-weight:bold;">Hugging Face</span> |  <span style="color:#81c784; font-weight:bold;">FAISS</span> | Deep Neural Networks | Transformer Models | LLMs<br/><br/>
-
-**Natural Language Processing & RAG:**<br/>
-<span style="color:#a1887f; font-weight:bold;">NLTK</span> | <span style="color:#9575cd; font-weight:bold;">LangChain</span> | Vector Embeddings | Sentiment Analysis | NER | Text Classification | RAG<br/><br/>
-
-**Predictive Modeling:**<br/>
-SARIMA/SARIMAX | RFM Analysis | Churn Prediction | Time Series | LSTM<br/><br/>
-
-**Computer Vision:**<br/>
-<span style="color:#e57373; font-weight:bold;">OpenCV</span> | YOLO | R-CNN | Transfer Learning | Image Classification<br/><br/>
-
-**Cloud & Data:**<br/>
-<span style="color:#42a5f5; font-weight:bold;">Google Cloud</span> | <span style="color:#29b6f6; font-weight:bold;">Azure</span> | <span style="color:#ce93d8; font-weight:bold;">Looker</span> | <span style="color:#fdd835; font-weight:bold;">Power BI</span> | <span style="color:#ff7043; font-weight:bold;">AWS</span><br/><br/>
-
-**Development:**<br/>
-<span style="color:#9ccc65; font-weight:bold;">Python</span> | <span style="color:#ffa726; font-weight:bold;">Flask</span> | <span style="color:#26a69a; font-weight:bold;">Django</span> | <span style="color:#bdbdbd; font-weight:bold;">Git</span> | <span style="color:#00acc1; font-weight:bold;">Docker</span> | <span style="color:#d4e157; font-weight:bold;">MLflow</span><br/>
+<p align="center">
+  Master's in Artificial Intelligence • 2+ Years Professional Experience • Full-Stack AI Engineer
+</p>
 
 ---
 
-### Portfolio & Blog
+## 🧠 Core Expertise
 
-🔗 [Portfolio](https://www.risadfindingpatterns.com/)
+### **Large Language Models (LLMs)**
+- Full Fine-Tuning • LoRA • QLoRA • PEFT  
+- Dataset Curation • Tokenizers • Evaluation  
+- Training on Cloud GPUs (RunPod, Vast.ai, Kaggle)  
+- Instruction-Tuning for Domain-Specific AI
 
-✍️ [Blog](https://www.risadfindingpatterns.com/blog)
+### **Agentic & Retrieval-Augmented AI**
+- Agentic RAG • Multi-Agent Systems • CrewAI  
+- Enterprise-Grade RAG Pipelines  
+- Document Intelligence • OCR → RAG Systems  
+- Knowledge Graph RAG • Workflow Automation Agents  
+
+### **Applied NLP**
+- Sentiment Analysis • Text Classification  
+- NER • Summarization • Custom Embeddings  
+- Advanced Prompt Engineering • Context Engineering  
+
+### **Computer Vision**
+- YOLO (v5–v10) • Faster/Mask R-CNN  
+- Image Classification • Segmentation  
+- Tracking & Video Analytics  
+
+### **Generative AI**
+- GANs • DCGAN • WGAN-GP  
+- Diffusion Models • Latent Diffusion  
+- Image Generation, Style Transfer  
+
+### **Cloud, Deployment & MLOps**
+- **GCP** (Cloud Run, Cloud Functions, Artifact Registry, BigQuery, Looker)  
+- Docker • CI/CD • GitHub Actions  
+- MLflow • Model Registry • Monitoring  
+- Scalable API Backends (FastAPI, Flask)
+
+### **Development**
+- Python • Django • Flask • FastAPI  
+- REST APIs • Microservices  
+- Git • Docker • SQL • NoSQL  
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Risad-Raihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **Dikkha AI — EdTech RAG System**
+Large-scale RAG pipeline with student-specific explanations, personalization, and PDF ingestion.
+
+### 🔹 **Bangla Legal LLM**
+Fine-tuned Qwen/Qwen2.5 model for Bangladeshi Tax & Legal domain  
+Includes structured preprocessing, OCR → RAG → generation.
+
+### 🔹 **Multi-Agent AI Assistant**
+CrewAI-based multi-agent system for planning, analysis, and execution of automated workflows.
+
+### 🔹 **NeuroVision**
+YOLO-based CV system for real-time detection and alerting.
+
+---
+
+## 🌐 Portfolio & Blog
+
+🔗 **Portfolio:** https://www.risadfindingpatterns.com/  
+✍️ **Blog:** https://www.risadfindingpatterns.com/blog  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/risadraihan  
+- Email: risad.raihan949@gmail.com  
+
+---
+
+<p align="center">Built with passion, curiosity, and way too much coffee.</p>
