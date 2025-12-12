@@ -4,7 +4,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -14,6 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # REQUIRED for git push to work
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
@@ -28,16 +32,12 @@ jobs:
           name: snake-artifacts
           path: dist/
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
           commit_message: "update snake animation"
           keep_history: false
-          allow_empty_commit: false
-          # THIS fixes exit code 128:
-          # GitHub now blocks deploys unless this is added.
-          persist_credentials: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
