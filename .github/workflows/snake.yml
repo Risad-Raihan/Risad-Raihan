@@ -33,5 +33,11 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "update snake animation"
+          keep_history: false
+          allow_empty_commit: false
+          # THIS fixes exit code 128:
+          # GitHub now blocks deploys unless this is added.
+          persist_credentials: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
