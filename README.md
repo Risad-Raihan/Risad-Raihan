@@ -12,6 +12,7 @@ If you read what I blabber about:
 
 ## In case you're seriously searching me: 
 
+- Portfolio: https://www.risadfindingpatterns.com/ 
 - LinkedIn: https://www.linkedin.com/in/risadraihan  
 - Email: rrmalik66@gmail.com
 - what im building: https://neuronfish.dev/ 
