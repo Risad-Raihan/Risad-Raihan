@@ -3,16 +3,19 @@
   <img src="https://raw.githubusercontent.com/Risad-Raihan/Risad-Raihan/output/snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-🔗 **Portfolio:** https://www.risadfindingpatterns.com/  
+Im Risad Raihan Malik. I write neural networks for bread. I love books, prog music and I pretend that I know how to play bass.
+
+If you read what I blabber about: 
 ✍️ **Blog:** https://www.risadfindingpatterns.com/blog  
 
 ---
 
-## 📫 Contact
+## In case you're seriously searching me: 
 
 - LinkedIn: https://www.linkedin.com/in/risadraihan  
-- Email: risad.raihan949@gmail.com  
+- Email: rrmalik66@gmail.com
+ 
 
 ---
 
-<p align="center">Built with passion, curiosity, and way too much coffee.</p>
+
