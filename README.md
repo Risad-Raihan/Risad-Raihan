@@ -5,7 +5,7 @@
 
 Im Risad Raihan Malik. I write neural networks for bread. I love books, algorithms, prog rock and I pretend that I know how to play bass.
 
-If you read what I blabber about: 
+If you wanna read what I blabber about: 
 **Blog:** https://www.risadfindingpatterns.com/blog  
 
 ---
